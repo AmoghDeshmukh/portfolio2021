@@ -60,14 +60,6 @@ body{
   color: var(--second-color);
 }
 
-.bg-img{
-  background: url(../images/background\ image.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  min-height: 600px;
-  min-width: 800px;
-  
-}
 h1,h2,p{
   margin: 0;
 }
