@@ -238,6 +238,8 @@ img{
 }
 .about__img{
   justify-self: center;
+  width: 100%;
+  border-radius: 50%;
 }
 
 /* ===== SKILLS =====*/
