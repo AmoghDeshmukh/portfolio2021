@@ -238,6 +238,10 @@ img{
 }
 .about__img{
   justify-self: center;
+  max-width: 450px;
+  display: block;
+  margin:auto;
+  border-radius: 50%;
   width: 100%;
   border-radius: 50%;
 }
